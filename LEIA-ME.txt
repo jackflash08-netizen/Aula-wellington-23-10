@@ -1,0 +1,14 @@
+VOTAÇÃO AO VIVO NA AULA (publicação em 5 minutos)
+
+1. No GitHub, crie um repositório público novo (ex.: aula-regionalismo).
+2. Clique em "Add file" > "Upload files" e envie os dois arquivos desta pasta: index.html e vote.html. Confirme em "Commit changes".
+3. Em Settings > Pages, escolha "Deploy from a branch", branch main, pasta /root, e salve.
+4. Em 1 a 2 minutos o endereço fica no formato https://SEU-USUARIO.github.io/aula-regionalismo/
+5. Abra esse endereço no seu computador para apresentar. A tela "Participe pelo celular" mostra o QR code. Os alunos escaneiam e votam, sem login.
+
+Na aula:
+- Teclas 1, 2 ou 3 escolhem a opção. M escolhe a mais votada. Enter avança a cena.
+- A votação fecha sozinha em 30 segundos ou quando você escolhe.
+- Se a conexão dos alunos falhar, a aula funciona normalmente só com o teclado.
+
+Teste antes: abra o link no seu celular com o 4G e outro com o wi-fi da sala, e vote.
